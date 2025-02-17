@@ -6,7 +6,8 @@ Bienvenido a esta colección de cuadernos interactivos de Python, diseñados par
 
 ##  Contenido  
 
-Aquí encontrarás una serie de notebooks enfocados en **fortalecer tus habilidades en Python** con explicaciones claras y ejercicios prácticos.  
+Aquí encontrarás una serie de notebooks enfocados en **fortalecer tus habilidades en Python** con explicaciones claras y ejercicios prácticos. 
+📌 En el cuaderno "Ortiz_03_02 Vf" se encuentra un ejemplo práctico en donde podemos ver diferentes formas de tratar datos y una representación gráfica de los mismo.
 
 ###  Temas Incluidos  
 ✅ **Conjuntos** – Aprende sobre operaciones matemáticas y lógicas.  
